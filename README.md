@@ -1,2 +1,2 @@
 # ProjectCapstone
-Predicting reusability of rockets first stage after launch
+Predicting Rocket first stage reusability after launch
